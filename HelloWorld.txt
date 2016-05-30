@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Welcome Team
 How are you?
+=======
+Welcome Team
+>>>>>>> 9511a556534e5a70a41f596f7be92876e69c8363
