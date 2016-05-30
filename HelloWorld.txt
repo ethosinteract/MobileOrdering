@@ -1,3 +1,7 @@
 Welcome Team
+<<<<<<< HEAD
 How  Are You
 Hope UR Fine
+=======
+How  Are You
+>>>>>>> 95229394cbc22b41bd1e2163de62cc8e340cdf51
